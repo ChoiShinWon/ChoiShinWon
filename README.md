@@ -26,7 +26,11 @@
 
 ### ⚙️ Tools & Collaboration
 <img src="https://img.shields.io/badge/RIDER-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+<img src="https://img.shields.io/badge/VISUAL%20STUDIO%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
 
+<br>
+<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/PREMIERE%20PRO-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 </div>
