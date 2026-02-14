@@ -3,9 +3,13 @@
 # 안녕하세요! 👋
 # 개발자 최신원입니다.
 
-<img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/ChoiShinWon-181717?style=for-the-badge">
+<a href="https://github.com/ChoiShinWon">
+  <img src="https://img.shields.io/badge/GITHUB-555555?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/ChoiShinWon-181717?style=for-the-badge">
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"><img src="https://img.shields.io/badge/csw57421@gmail.com-D14836?style=for-the-badge">
+<a href="mailto:csw57421@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white"><img src="https://img.shields.io/badge/csw57421@gmail.com-D14836?style=for-the-badge">
+</a>
 &nbsp;
 <img src="https://img.shields.io/badge/PHONE-555555?style=for-the-badge&logo=iphones&logoColor=white"><img src="https://img.shields.io/badge/010--2745--9143-4CAF50?style=for-the-badge">
 
