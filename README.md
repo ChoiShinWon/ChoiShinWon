@@ -1,16 +1,25 @@
-## 안녕하세요! 👋
+<div align="center">
 
-<!--
-**ChoiShinWon/ChoiShinWon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요! 👋
+# UE5 C++ 개발자 최신원입니다.
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/본인아이디)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인이메일@gmail.com)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 기술 스택 (Tech Stack)
+
+### 💻 Languages & Engine
+<img src="https://img.shields.io/badge/UNREAL%20ENGINE%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+
+### ⚙️ Tools & Collaboration
+<img src="https://img.shields.io/badge/RIDER-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+</div>
+
+---
