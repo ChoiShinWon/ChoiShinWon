@@ -3,14 +3,16 @@
 # 안녕하세요! 👋
 # UE5 C++ 개발자 최신원입니다.
 
-[![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/본인아이디)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:본인이메일@gmail.com)
+[![Github](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChoiShinWon)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csw57421@gmail.com)
+![Phone](https://img.shields.io/badge/PHONE-4CAF50?style=for-the-badge&logo=target&logoColor=white) **010-2745-9143**
+
 ---
 
 ## 🛠 기술 스택 (Tech Stack)
 
 ### 💻 Languages & Engine
-<img src="https://img.shields.io/badge/UNREAL%20ENGINE%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+<img src="https://img.shields.io/badge/UNREAL%20ENGINE%205.5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 
